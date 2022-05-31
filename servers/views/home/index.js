@@ -1,0 +1,1 @@
+alert("alert from 'views/index.js'")
